@@ -17,10 +17,10 @@ Selenium and Beautifulsoup libraries needed to run this code
 ### Installing
 
 ```
-pip install Selenium
+pip install selenium
 ```
 ```
-pip install 
+pip install beautifulsoup
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
@@ -38,7 +38,7 @@ Output of this script will be a csv file which has 20 features (columns):
 
 ## Authors
 
-* **Alireza Nazari** - *Initial work* - [AlirezaNazari](https://github.com/alirezaznz)
+* **Alireza Nazari** - [AlirezaNazari](https://github.com/alirezaznz)
 
 ## License
 
